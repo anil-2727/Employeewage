@@ -1,1 +1,0 @@
-console.log("welcome to employeewage problem");
